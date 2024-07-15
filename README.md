@@ -10,3 +10,4 @@
 - 11/07 - Assisti ao módulo sobre Layout com CSS - Flexbox e desenvolvi o projeto [perfil-de-viagens](https://github.com/joao-siilva/perfil-de-viagens), que apresenta um perfil de viagens a partir da movimentada cidade de Pernambuco.
 - 12/07 - Revisei os conceitos abordados anteriormente e refiz os projetos, focando no design para solidificar meu entendimento.
 - 14/07 - Assisti ao módulo sobre Layout com CSS - CSS Grid e desenvolvi o projeto [portal-de-noticias](https://github.com/joao-siilva/portal-de-noticias), que exibe notícias de forma clara e atraente sobre inteligência artificial.
+- 10/07 - Concluí o desafio do projeto [portfolio-dev](https://github.com/joao-siilva/portfolio-dev), um site desktop para desenvolvedores com projetos, serviços e contatos.
