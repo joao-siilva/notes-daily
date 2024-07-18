@@ -12,3 +12,4 @@
 - 14/07 - Assisti ao módulo sobre Layout com CSS - CSS Grid e desenvolvi o projeto [portal-de-noticias](https://github.com/joao-siilva/portal-de-noticias), que exibe notícias de forma clara e atraente sobre inteligência artificial.
 - 15/07 - Concluí o desafio do projeto [portfolio-dev](https://github.com/joao-siilva/portfolio-dev), um site desktop para desenvolvedores com projetos, serviços e contatos.
 - 16/07 - Assisti ao módulo de Formulários HTML, como criar formulários com elementos como input text, select, textarea, checkboxes, dentre outros.
+- 17/07 - Desenvolvi a parte 1 do projeto [formulario-de-matricula](https://github.com/joao-siilva/formulario-de-matricula), formulário para matricular seu filho na escola de educação infantil Estrelas do Amanhã.
