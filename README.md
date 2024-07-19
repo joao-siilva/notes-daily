@@ -13,3 +13,4 @@
 - 15/07 - Concluí o desafio do projeto [portfolio-dev](https://github.com/joao-siilva/portfolio-dev), um site desktop para desenvolvedores com projetos, serviços e contatos.
 - 16/07 - Assisti ao módulo de Formulários HTML, como criar formulários com elementos como input text, select, textarea, checkboxes, dentre outros.
 - 17/07 - Desenvolvi a parte 1 do projeto [formulario-de-matricula](https://github.com/joao-siilva/formulario-de-matricula), formulário para matricular seu filho na escola de educação infantil Estrelas do Amanhã.
+- 17/07 - Desenvolvi e finalizei a parte 2 do projeto [formulario-de-matricula](https://github.com/joao-siilva/formulario-de-matricula)
