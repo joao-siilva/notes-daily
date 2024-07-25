@@ -17,3 +17,4 @@
 - 20/07 - Desenvolvi a partir 1 do desafio [formulario-de-convite](https://github.com/joao-siilva/formulario-de-convite), formulário para Criar um convite digital para o seu evento
 - 21/07 - Desenvolvi e finalizei a partir 2 do desafio [formulario-de-convite](https://github.com/joao-siilva/formulario-de-convite)
 - 23/07 - Assisti aos módulos sobre CSS Functions e Responsividade.
+- 24/07 - Desenvolvi a partir 1 do projeto [landing-page-aplicativo](https://github.com/joao-siilva/landing-page-aplicativo), um aplicativo de karaokê para aprender a cantar.
