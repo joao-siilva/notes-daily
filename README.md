@@ -20,3 +20,4 @@
 - 24/07 - Desenvolvi a partir 1 do projeto [landing-page-aplicativo](https://github.com/joao-siilva/landing-page-aplicativo), um aplicativo de karaokê para aprender a cantar.
 - 25/07 - Desenvolvi a partir 2 do projeto [landing-page-aplicativo](https://github.com/joao-siilva/landing-page-aplicativo)
 - 26/07 - Desenvolvi e finalizei a parte 3 do projeto [landing-page-aplicativo](https://github.com/joao-siilva/landing-page-aplicativo)
+- 27/07 - Adicionei a parte de responsividade para dispositivos móveis nos projetos [pagina-de-receita](https://github.com/joao-siilva/pagina-de-receita), [local-turistico](https://github.com/joao-siilva/local-turistico), e [perfil-de-viagens](https://github.com/joao-siilva/perfil-de-viagens).
