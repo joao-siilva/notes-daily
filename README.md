@@ -2,6 +2,11 @@
 
 <br>
 
+#### Mês agosto de 2024
+- 02/08 - Desenvolvi e finalizei o projeto [landing-page-clube-assinatura](https://github.com/joao-siilva/landing-page-clube-assinatura), assinatura de livros com brindes exclusivos
+
+<br>
+
 #### Mês julho de 2024
 
 - 31/07 - Desenvolvi e finalizei a parte 2 do projeto [landing-page-patins-animada](https://github.com/joao-siilva/landing-page-patins-animada)
