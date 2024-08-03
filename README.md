@@ -3,6 +3,7 @@
 <br>
 
 #### Mês agosto de 2024
+- 03/08 - Assisti ao módulo de JavaScript básico e fiz os quizes
 - 02/08 - Desenvolvi e finalizei o projeto [landing-page-clube-assinatura](https://github.com/joao-siilva/landing-page-clube-assinatura), assinatura de livros com brindes exclusivos
 
 <br>
