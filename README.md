@@ -3,6 +3,7 @@
 <br>
 
 #### Mês agosto de 2024
+- 07/08 - Desenvolvi a parte 1 do projeto [conversor-de-moedas](https://github.com/joao-siilva/conversor-de-moedas), conversor de moedas Dólar americano, Euro e Libra esterlina
 - 06/08 - Finalizei o módulo de [javascript-basico](https://github.com/joao-siilva/javascript-basico), dando continuidade a Document Object Model (DOM) e fiz o quiz
 - 05/08 - Assisti ao módulo de JavaScript básico, introduzindo a condicionais e controle de fluxo, funções, Document Object Model (DOM) e fiz os quizes
 - 04/08 - Assisti ao módulo de JavaScript básico, introduzindo aos primeiros passos, variáveis e constatnes na prática, e fiz os quizes
